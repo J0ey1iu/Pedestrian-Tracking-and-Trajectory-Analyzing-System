@@ -1,0 +1,207 @@
+[INFO] Video chosen, "/Users/liujiayu/Documents/grad design/最后的优化/testvid2.avi"
+[INFO] User chose Feature track.
+166 frame were analyzed, 789 trajectories detected.
+[INFO] User used spectrum cluster.
+[INFO] Got 2 clusters, [8, 6].
+
+
+
+Tue Apr  9 15:41:42 2019[INFO] Video chosen, "/Users/liujiayu/Documents/grad design/最后的优化/testvid2.avi"
+[INFO] User chose Feature track.
+136 frame were analyzed, 655 trajectories detected.
+[INFO] User used spectrum cluster.
+[INFO] Got 2 clusters, [3, 6].
+
+
+
+Tue Apr  9 15:43:35 2019
+[ERROR] Didn't choose any video.
+
+
+
+Tue Apr  9 15:47:52 2019
+[INFO] Video chosen, "/Users/liujiayu/Documents/grad design/最后的优化/testvid2.avi"
+[INFO] User chose Feature track.
+153 frame were analyzed, 727 trajectories detected.
+[INFO] User used spectrum cluster.
+[INFO] Got 2 clusters, [6, 6].
+
+
+
+Tue Apr  9 15:52:27 2019
+[ERROR] Didn't choose any video.
+[ERROR] Didn't choose any video.
+
+
+
+Tue Apr  9 15:53:17 2019
+[ERROR] Didn't choose any video.
+[ERROR] Didn't choose any video.
+[INFO] Video chosen, "/Users/liujiayu/Documents/grad design/最后的优化/testvid2.avi"
+[INFO] User chose Feature track.
+136 frame were analyzed, 655 trajectories detected.
+[INFO] User used spectrum cluster.
+[INFO] Got 2 clusters, [3, 6].
+
+
+
+Tue Apr  9 15:56:45 2019
+[ERROR] Didn't choose any video.
+[ERROR] Didn't choose any video.
+[ERROR] Didn't choose any video.
+[INFO] Video chosen, "/Users/liujiayu/Documents/grad design/最后的优化/testvid2.avi"
+[INFO] User chose Feature track.
+165 frame were analyzed, 457 trajectories detected.
+[INFO] User used spectrum cluster.
+[INFO] Got 2 clusters, [4, 7].
+
+
+
+Tue Apr  9 15:59:15 2019
+[ERROR] Didn't choose any video.
+[ERROR] Didn't choose any video.
+[ERROR] Didn't choose any video.
+[INFO] Video chosen, "/Users/liujiayu/Documents/grad design/最后的优化/testvid2.avi"
+[INFO] User chose Feature track.
+158 frame were analyzed, 433 trajectories detected.
+[INFO] User used spectrum cluster.
+[INFO] Got 2 clusters, [3, 7].
+
+
+
+Sat Apr 13 12:22:56 2019
+[INFO] Video chosen, "/Users/liujiayu/Documents/grad design/最后的优化/testvid2.avi"
+[INFO] User chose Feature track.
+[INFO] 161 frames were analyzed, 763 trajectories detected.
+[INFO] User used spectrum cluster.
+[INFO] Got 2 clusters, [6, 7].
+
+
+
+Wed Apr 17 15:29:52 2019
+[ERROR] Didn't choose any video.
+
+
+
+Thu Apr 25 13:19:47 2019
+[INFO] Video chosen, "/Users/liujiayu/Documents/grad design/最后的优化/testvid2.avi"
+[INFO] User chose Feature track.
+[INFO] 156 frames were analyzed, 330 trajectories detected.
+
+
+
+Thu Apr 25 13:22:38 2019
+[INFO] Video chosen, "/Users/liujiayu/Documents/grad design/最后的优化/Trimed.avi"
+[INFO] User chose HOG track.
+[INFO] 98 frames were analyzed, 6 trajectories detected.
+[INFO] User chose HOG track.
+[INFO] 63 frames were analyzed, 5 trajectories detected.
+
+
+
+Tue Jun  4 14:54:05 2019
+[INFO] Video chosen, "/Users/liujiayu/Documents/grad design/grandcentral.avi"
+[INFO] User chose Feature track.
+[INFO] 78 frames were analyzed, 416 trajectories detected.
+
+
+
+Wed Jun  5 09:52:34 2019
+[INFO] Video chosen, "/Users/liujiayu/Documents/grad design/最后的优化/testvid2.avi"
+[INFO] User chose Feature track.
+[INFO] 135 frames were analyzed, 640 trajectories detected.
+[INFO] User used clusterAgglomerartive.
+[INFO] Got 2 clusters, [11, 0].
+[INFO] User used spectrum cluster.
+[INFO] Got 2 clusters, [3, 6].
+[INFO] User used spectrum cluster.
+[INFO] Got 2 clusters, [3, 6].
+
+
+
+Wed Jun  5 09:55:05 2019
+
+
+
+Wed Jun  5 10:18:28 2019
+[ERROR] Didn't choose any video.
+
+
+
+Wed Jun  5 10:20:09 2019
+[INFO] Video chosen, "/Users/liujiayu/Documents/grad design/最后的优化/testvid2.avi"
+[INFO] User chose Feature track.
+[INFO] 132 frames were analyzed, 633 trajectories detected.
+[INFO] User used spectrum cluster.
+[INFO] Got 2 clusters, [3, 6].
+[INFO] User used clusterAgglomerartive.
+[INFO] Got 2 clusters, [9, 0].
+[INFO] User used clusterAgglomerartive.
+[INFO] Got 2 clusters, [19, 0].
+[INFO] User used clusterAgglomerartive.
+[INFO] Got 3 clusters, [0, 9, 0].
+[INFO] User chose Feature track.
+[INFO] 155 frames were analyzed, 737 trajectories detected.
+[INFO] User used spectrum cluster.
+[INFO] Got 2 clusters, [6, 6].
+[INFO] User used clusterAgglomerartive.
+[INFO] Got 2 clusters, [12, 0].
+[INFO] User used clusterAgglomerartive.
+[INFO] Got 3 clusters, [0, 24, 0].
+
+
+
+Wed Jun  5 10:27:06 2019
+[ERROR] Didn't choose any video.
+[INFO] Video chosen, "/Users/liujiayu/Documents/grad design/最后的优化/testvid2.avi"
+[INFO] User used clusterAgglomerartive.
+[INFO] Got 2 clusters, [44, 0].
+[INFO] User used spectrum cluster.
+[INFO] Got 2 clusters, [3, 41].
+[ERROR] Didn't choose any video.
+
+
+
+Wed Jun  5 10:34:05 2019
+[INFO] Video chosen, "/Users/liujiayu/Movies/Movie on 2019-6-5 at 10.31 AM.mov"
+[INFO] User chose Feature track.
+[INFO] 96 frames were analyzed, 543 trajectories detected.
+[INFO] User chose Feature track.
+[INFO] 52 frames were analyzed, 1383 trajectories detected.
+
+
+
+Wed Jun  5 10:35:21 2019
+[INFO] Video chosen, "/Users/liujiayu/Documents/grad design/最后的优化/testvid2.avi"
+[INFO] User chose HOG track.
+[INFO] 19 frames were analyzed, 2 trajectories detected.
+[INFO] Video chosen, "/Users/liujiayu/Documents/grad design/最后的优化/testvid2.avi"
+[INFO] User chose HOG track.
+[INFO] 63 frames were analyzed, 2 trajectories detected.
+[INFO] User used clusterAgglomerartive.
+[INFO] User used clusterAgglomerartive.
+[INFO] User used spectrum cluster.
+[INFO] Got 2 clusters, [1, 1].
+
+
+
+Wed Jun  5 11:38:11 2019
+[INFO] Video chosen, "/Users/liujiayu/Documents/grad design/最后的优化/testvid2.avi"
+[INFO] User chose Feature track.
+[INFO] 152 frames were analyzed, 722 trajectories detected.
+[INFO] User used spectrum cluster.
+[INFO] Got 2 clusters, [6, 6].
+
+
+
+Thu Jul 25 16:18:28 2019
+[INFO] Video chosen, "/Users/liujiayu/Documents/grad design/最后的优化/testvid2.avi"
+[INFO] User chose Feature track.
+[INFO] 168 frames were analyzed, 804 trajectories detected.
+[INFO] User used spectrum cluster.
+[INFO] Got 2 clusters, [6, 9].
+[INFO] Video chosen, "/Users/liujiayu/Documents/grad design/最后的优化/Trimed.avi"
+[INFO] User chose Feature track.
+[INFO] 99 frames were analyzed, 554 trajectories detected.
+[INFO] User used spectrum cluster.
+[INFO] Got 2 clusters, [16, 1].
